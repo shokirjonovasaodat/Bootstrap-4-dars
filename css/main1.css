@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+.batton{
+    background-color: rgb(204, 31, 31);
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.a{
+    margin-left: 400px;
+    margin-top: 27px;
+}
+.b{
+    text-align: center;
+}

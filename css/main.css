@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(173, 207, 219);
+}
+.a{
+    text-align: center;
+}
+.batton{
+    margin-left: 10px;
+    margin-top: 27px;
+    border-radius: 30px;
+}
